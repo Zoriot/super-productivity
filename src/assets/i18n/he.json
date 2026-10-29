@@ -1638,13 +1638,11 @@
         "IMPORTING": "מייבא נתונים",
         "INCOMPLETE_CFG": "אישורי סנכרון חסרים.",
         "INCOMPLETE_OP_SYNC": "הסנכרון אינו שלם: {{count}} קבצי פעולה נכשלו בהורדה",
-        "INCOMPLETE_REMOTE_OPERATIONS": "",
         "INITIAL_SYNC_ERROR": "סנכרון ראשוני נכשל",
         "INTEGRITY_CHECK_FAILED": "זוהתה בעיית תקינות נתונים.",
         "INTEGRITY_TAMPER_DETECTED": "הסנכרון הופסק: השרת החזיר נתונים שנכשלו בבדיקת אבטחה.",
         "INVALID_AUTH_CODE": "קוד האימות נדחה.",
         "INVALID_OPERATION_PAYLOAD": "זוהתה פעולה לא תקינה.",
-        "LEGACY_FORMAT_DETECTED": "",
         "LOCAL_CHANGES_DISCARDED": "{{count}} שינוי(ים) מקומיים נזנחו - פריט(ים) שנמחקו במכשיר אחר",
         "LOCAL_CHANGES_DISCARDED_SNAPSHOT": "{{count}} שינוי(ים) מקומיים שלא נשמרו נזנחו",
         "LOCAL_DATA_REPLACE_CANCELLED": "הסנכרון בוטל.",
@@ -1666,8 +1664,6 @@
         "RESTORE_ERROR": "נכשל בשחזור נתונים",
         "RESTORE_SUCCESS": "הנתונים שוחזרו בהצלחה",
         "SERVER_MIGRATION_VALIDATION_FAILED": "לא ניתן היה להעביר נתונים לשרת.",
-        "SPLIT_FORMAT_ENABLE_SETTING": "",
-        "STORAGE_QUOTA_EXCEEDED": "",
         "STORAGE_RECOVERED_AFTER_COMPACTION": "שטח האחסון היה נמוך. נתונים ישנים נוקו בהצלחה.",
         "SUCCESS_DOWNLOAD": "סונכרנו נתונים מהמרוחק",
         "SUCCESS_VIA_BUTTON": "הנתונים סונכרנו בהצלחה",
@@ -1679,9 +1675,7 @@
         "UPLOAD_ERROR": "שגיאת העלאה לא ידועה: {{err}}",
         "UPLOAD_OPS_REJECTED": "{{count}} פעולה(ות) נדחו לצמיתות על ידי השרת.",
         "VECTOR_CLOCK_LIMIT_REACHED": "הסנכרון ניקה רישומי מכשיר ישנים ({{originalSize}} ← {{maxSize}}).",
-        "VERSION_TOO_OLD": "גרסת האפליקציה שלך ישנה מדי עבור הנתונים המסונכרנים.",
-        "VERSION_UNSUPPORTED": "",
-        "WEB_CRYPTO_NOT_AVAILABLE": ""
+        "VERSION_TOO_OLD": "גרסת האפליקציה שלך ישנה מדי עבור הנתונים המסונכרנים."
       },
       "SAFETY_BACKUP": {
         "BTN_CLEAR_ALL": "נקה הכל",
